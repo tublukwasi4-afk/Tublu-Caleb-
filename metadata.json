@@ -1,0 +1,6 @@
+{
+  "name": "DoseMate - Automated Daily Medicine Reminder",
+  "description": "Automated daily medicine scheduler and reminder system with sound alarms, browser push notifications, inventory refill tracking, and adherence logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
